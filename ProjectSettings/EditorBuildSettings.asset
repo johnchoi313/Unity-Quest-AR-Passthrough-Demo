@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Quest 2 Demo.unity
+    path: Assets/Scenes/Quest 2 Simple Demo.unity
     guid: d7a978698a3c32e43b2f46fef8a18e93
   - enabled: 1
     path: Assets/Oculus/Interaction/Samples/Scenes/Examples/HandGrabExamples.unity
