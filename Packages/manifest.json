@@ -10,6 +10,7 @@
     "com.unity.xr.management": "4.4.0",
     "com.unity.xr.oculus": "4.0.0",
     "com.unity.xr.openxr": "1.8.2",
+    "org.khronos.unitygltf": "https://github.com/prefrontalcortex/UnityGLTF.git?path=/UnityGLTF/Assets/UnityGLTF",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
