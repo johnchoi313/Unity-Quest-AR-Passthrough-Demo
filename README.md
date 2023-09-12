@@ -1,5 +1,5 @@
 # Unity-Quest-AR-Passthrough-Demo
-Quest 2 Demo Unity App for 18-453 XR Class Lab 2!
+Meta Quest Demo Unity App for 18-453 XR Class Lab 2!
 
 <img src="https://img.shields.io/badge/unity-2022.3.8f1-blue"/> <img src="https://img.shields.io/badge/platform-Android-green"/> <img src="https://img.shields.io/badge/supports-Quest 2/Quest Pro/Quest 3-orange"/>  <img src="https://img.shields.io/badge/license-MIT-red"/> 
 
